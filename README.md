@@ -1,17 +1,30 @@
-## 👋 Hi, I'm Hassan Zindani.
+<h1 align="center">Hi 👋, I'm Hassan Zindani</h1>
+<h3 align="center">A passionate Data Analyst from Perth, WA</h3>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl1YWo5bXBkN3o4YXZnZ3VwZm1kczRuc3FwdXc1bjFvbnAzZnhhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
-I’m an experienced Business Analyst with a growing passion for Data Analytics. My journey spans diving deep into data to uncover insights using SQL, R, Python, and Excel.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanzindani&label=Profile%20views&color=0e75b6&style=flat" alt="hassanzindani" /> </p>
 
-👀 I’m interested in: Data Analytics, Business Analytics, Machine Learning, and Predictive Modeling.
+- 🌱 I’m currently learning **Advanced SQL queries, Python for data analysis, and data visualization techniques in R and Excel.**
 
-🌱 I’m currently learning: Advanced SQL queries, Python for data analysis, and data visualization techniques in R and Excel.
+- 💬 Ask me about **Data analytics projects involving SQL, R, Python, and Excel for solving business problems and predictive analysis.**
 
-💞️ I’m looking to collaborate on: Data analytics projects involving SQL, R, Python, and Excel for solving business problems and predictive analysis.
+- 📫 How to reach me **Connect with me on LinkedIn or start a conversation on GitHub Discussions.**
 
-📫 How to reach me: Connect with me on LinkedIn or start a conversation on GitHub Discussions.
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o0n_x9cUXWfkTOWB2FCLJk_7HdODr-p8/view?usp=drivesdk](https://drive.google.com/file/d/1o0n_x9cUXWfkTOWB2FCLJk_7HdODr-p8/view?usp=drivesdk)
 
-😄 Pronouns: He/Him
+- ⚡ Fun fact **My background in Big Data helps me solve data problems with a unique perspective on troubleshooting and solution optimization!**
 
-⚡ Fun fact: My background in Big Data helps me solve data problems with a unique perspective on troubleshooting and solution optimization!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-hassan-zindani-826b17199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-hassan-zindani-826b17199" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/hassanzindani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hassanzindani" height="30" width="40" /></a>
+</p>
 
-Check out my projects where I apply SQL, R, Python, and Excel to explore and solve real-world data challenges.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanzindani&show_icons=true&locale=en&layout=compact" alt="hassanzindani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanzindani&show_icons=true&locale=en" alt="hassanzindani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanzindani&" alt="hassanzindani" /></p>
